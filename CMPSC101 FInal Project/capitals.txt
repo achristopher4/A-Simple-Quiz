@@ -1,0 +1,15 @@
+What is the capital of Japan?/Tokyo
+What is the country that has the capital of Mexico City?/Mexico
+What is the capital of Canada?/Ottawa
+What is the country that has the capital of Canberra?/Australia
+What is the capital of Belgium?/Brussels
+What is the country that has the capital of Beijing?/China
+What is the capital of Czech Republic?/Prague
+What is the country that has the capital of New Delhi?/India
+What is the capital of Israel?/Jerusalem
+What is the country that has the capital of Rome?/Italy
+What is the capital of Maldives?/Male
+What is the country that has the capital of Oslo?/Norway
+What is the capital of New Zealand?/Wellington
+What is the country that has the capital of Panama City?/Panama
+What is the capital of United Kingdom?/London
